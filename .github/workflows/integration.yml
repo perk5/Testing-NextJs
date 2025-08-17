@@ -51,6 +51,6 @@ jobs:
     - name: "Installing dependencies"
       run: npm i
     
-    - name: "Build Command"
-      run: npm run build
+    - name: "Test Command"
+      run: npm run test
     
