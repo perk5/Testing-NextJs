@@ -57,7 +57,7 @@ exports[`renders homepage unchanged 1`] = `
             Examples →
           </h3>
           <p>
-            Discover and deploy Next.js.
+            Discover and deploy boilerplate example in Next.js.
           </p>
         </a>
         <a
