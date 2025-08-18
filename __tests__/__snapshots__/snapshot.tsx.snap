@@ -32,7 +32,7 @@ exports[`renders homepage unchanged 1`] = `
           href="https://nextjs.org/docs"
         >
           <h3>
-            Docs →
+            Documentations →
           </h3>
           <p>
             Find in-depth information about Next.js features and API.
